@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../LT_UIauto-master/.idea/LT_UIauto.iml" filepath="$PROJECT_DIR$/../LT_UIauto-master/.idea/LT_UIauto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../UITEST/.idea/UITEST.iml" filepath="$PROJECT_DIR$/../UITEST/.idea/UITEST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/autotest.iml" filepath="$PROJECT_DIR$/.idea/autotest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../web-demotest/.idea/web-demotest.iml" filepath="$PROJECT_DIR$/../web-demotest/.idea/web-demotest.iml" />
+    </modules>
+  </component>
+</project>
